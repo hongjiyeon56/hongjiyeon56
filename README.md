@@ -160,24 +160,3 @@ Wireless AI
 ```
 
 <br>
-
-## ✦ GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hongjiyeon56&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongjiyeon56&layout=compact&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### See · Understand · Act
-
-*Building AI that connects perception, reasoning, and action.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
-
-</div>
