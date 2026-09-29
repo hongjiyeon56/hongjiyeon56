@@ -5,10 +5,9 @@
 ### Hi, I'm Jiyeon 👋
 
 I build AI systems that **see, reason, and interact with the real world.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://diffusion-planet.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiyeon-hong-661b4934b/)
 [![GitHub](https://img.shields.io/badge/GitHub-hongjiyeon56-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hongjiyeon56)
-
+[![Instagram](https://img.shields.io/badge/Instagram-zkiki__boom-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/
 </div>
 
 <br>
