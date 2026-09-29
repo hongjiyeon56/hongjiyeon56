@@ -37,35 +37,49 @@ jiyeon = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Garment Vision Pipeline
-Vision pipeline for autonomous garment unfolding and inspection.
+### 🤖 DUARO
+Dual-arm robot system for automating garment return inspection and sorting.
 
 **Focus**  
-Segmentation · Keypoint Detection · Grasp-point Selection · Closed-loop Re-observation
+Dual-arm Manipulation · Grasp Point Detection · ACT · Closed-loop Unfolding
 
 **Stack**  
-`ROS 2` `SAM` `FashionAI` `ONNX Runtime`
+`ROS 2` `OpenManipulator-X` `ACT` `Computer Vision`
 
-[→ View Repository](https://github.com/DUARO-hanium/garment-vision-pipeline)
+[→ View Repository](https://github.com/DUARO-hanium/README.md)
 
 </td>
 <td width="50%" valign="top">
 
-### 🩻 Medical AI Agent
-Multimodal LLM agent for evidence-grounded medical reasoning.
+### 🎨 IP-to-Portrait
+AI face synthesis pipeline that preserves the original pose, background, and lighting.
 
 **Focus**  
-Chest X-ray · Vision Tools · RAG · Evidence Retrieval · Agentic Reasoning
+Face Synthesis · Identity Preservation · Inpainting · Face Enhancement
 
 **Stack**  
-`LLM Agent` `RAG` `Qdrant` `Vision AI`
+`SDXL` `IP-Adapter` `InsightFace` `GFPGAN`
 
-[→ View Repository](https://github.com/Hanium-proj/jiyeon_agent)
+[→ View Project](https://diffusion-planet.github.io/)
 
 </td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+### 🗺️ SLAM-Dunk
+3D reconstruction and semantic mapping using iPhone LiDAR, IMU, and RGB.
+
+**Focus**  
+LiDAR-IMU SLAM · 3D Reconstruction · Semantic Segmentation · Open-vocabulary Mapping
+
+**Stack**  
+`SLAM` `Mosaic3D` `OpenScene` `3D Vision`
+
+[→ View Project](https://slam-dunk-prometheus.github.io/github.io/)
+
+</td>
 <td width="50%" valign="top">
 
 ### 💊 IPILLGOOD
@@ -80,7 +94,10 @@ Image Retrieval · OCR · Visual Embeddings · Candidate Ranking
 [→ View Repository](https://github.com/IPILLGOOD/IPILLGOOD)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
 
 ### 📡 Wi-Fi CSI Research
 Reconstructing human spatial information from wireless channel signals.
