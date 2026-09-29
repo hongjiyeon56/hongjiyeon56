@@ -19,8 +19,7 @@ I build AI systems that **see, reason, and interact with the real world.**
 jiyeon = {
     "major": "Artificial Intelligence",
     "focus": ["Robotics", "Computer Vision", "Multimodal AI"],
-    "interests": ["VLM / VLA", "LLM Agents", "Generative AI", "Efficient LLMs"],
-    "goal": "Connecting perception, reasoning, and action.",
+    "interests": ["VLM / VLA", "NLP", "Generative AI", "Efficient LLMs"]
 }
 ```
 
