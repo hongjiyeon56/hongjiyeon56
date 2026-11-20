@@ -151,7 +151,7 @@ Physical AI
 
 Foundation Models
 ├── Vision-Language Models
-├── LLM Agents & RAG
+├── LLM Agents
 ├── Efficient LLMs
 └── Generative Models
 
