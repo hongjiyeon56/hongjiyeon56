@@ -25,7 +25,7 @@ jiyeon = {
 
 - 🤖 Building **Physical AI / Robotics** systems with ROS 2
 - 👀 Interested in **Computer Vision, VLMs, and multimodal reasoning**
-- 🧠 Exploring **LLM Agents, RAG, and efficient foundation models**
+- 🧠 Exploring **LLM Agents, and efficient foundation models**
 - 📡 Experienced with **Wi-Fi CSI based sensing & image reconstruction**
 - 🔬 I enjoy turning research ideas into working prototypes
 
